@@ -1,5 +1,5 @@
 Welcome to Stocker
-Don't be confused by the name this game isn't about stocking items but instead buyign and selling stocks
+Don't be confused by the name this game isn't about stocking items but instead buying and selling stocks
 
 
 Note:
